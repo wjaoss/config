@@ -1,0 +1,9 @@
+weapon: "Machine Gun"
+ride: "Motor Cycle"
+something:
+    nested:
+        deep: "yes"
+new:
+  how:
+    do:
+      you: "change me"

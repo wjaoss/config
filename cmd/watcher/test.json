@@ -1,0 +1,15 @@
+{
+    "name": "RoboCop",
+    "slogan": "I am the Law",
+    "buddies": [
+        {
+            "name": "Guan Yu",
+            "weapon": "halberd"
+        }
+    ],
+    "something": {
+        "nested": {
+            "deep": "no"
+        } 
+    }
+}
